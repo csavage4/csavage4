@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Colin!
+
+### I'm a rising junior at Brown University studying Math and CS
+
+### 📚 - Selected Coursework: Abstract Algebra, Complex Analysis, Differential Equations, Computer Systems, Software Engineering
+### 😄 - Pronouns: he/him/his
+### 🔭 - Work: This summer, I'll be a Software Engineering Intern at CME Group in Chicago, IL researching multithreading model for low-latency network.  I was previously a TA for CSCI 0150: Introduction to Object-Oriented Programming, taught by Andy van Dam.
 
 <!--
 **csavage4/csavage4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
