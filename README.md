@@ -2,7 +2,7 @@
 
 ### I'm a rising junior at Brown University studying Math and CS
 
-### 📚 - Selected Coursework: Abstract Algebra, Complex Analysis, Differential Equations, Computer Systems, Software Engineering, Data Structures and Algorithms
+### 📚 - Selected Coursework: Abstract Algebra, Complex Analysis, Deep Learning, OOP, Differential Equations, Computer Systems, Software Engineering, Data Structures and Algos, Probability, Linear Algebra, Calculus I-III
 ### 🔭 - Work -  This summer, I'll be a Software Engineering Intern at CME Group in Chicago, IL researching multithreading models for low-latency networks.  I was previously a TA for CSCI 0150: Object-Oriented Programming, taught by Andy van Dam.
 ### 😄 - Pronouns -  he/him/his
 
