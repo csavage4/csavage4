@@ -6,6 +6,9 @@
 ### 🔭 - Work -  This summer, I'll be a Software Engineering Intern at CME Group in Chicago, IL researching multithreading models for low-latency networks.  I was previously a TA for CSCI 0150: Object-Oriented Programming, taught by Andy van Dam.
 ### 😄 - Pronouns -  he/him/his
 
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,tensorflow,react,py,bash,linux,git,mongodb,html,css)](https://skillicons.dev)
+
+
 <!--
 **csavage4/csavage4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
