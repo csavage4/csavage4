@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Colin!
 
-### I'm a rising junior at Brown University studying Math and CS
+### I'm a junior at Brown University studying Math and CS
 
-### 📚 - Selected Coursework: Abstract Algebra, Complex Analysis, Deep Learning, OOP, Differential Equations, Computer Systems, Software Engineering, Data Structures and Algos, Probability Theory, Linear Algebra, Calculus I-III
-### 🔭 - Work -  This summer, I'll be a Software Engineering Intern at CME Group in Chicago, IL researching multithreading models for low-latency networks.  I was previously a TA for CSCI 0150: Object-Oriented Programming, taught by Andy van Dam.
+### 📚 - Selected Coursework: Abstract Algebra, Complex Analysis, Deep Learning, OOP, Differential Equations, Computer Systems, Software Engineering, Data Structures and Algos, Probability Theory, Linear Algebra, Calculus I-III,  Measure Theory, Manifolds, Real Analysis, Operating Systems, Compilers, Prescriptive Analytics, Algorithmic Design
+### 🔭 - Work -  This summer, I'll be working as a Quantitative Trading Intern at Virtu Financial in Austin, TX and was previously a Software Engineering Intern at CME Group in Chicago, IL working on networking and low-latency aspects if their order-entry systems.  I'm also a UTA for CSCI 1952Q, an upper-level undergraduate course on ML algorithms taught by Yu Cheng and was previously a TA for CSCI 0150: Object-Oriented Programming, taught by Andy van Dam.
 ### 😄 - Pronouns -  he/him/his
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,tensorflow,ocaml,py,bash,linux,git,mongodb,r)](https://skillicons.dev)
